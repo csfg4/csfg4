@@ -1,4 +1,4 @@
 ### hello :3
 <br>
-currently working on mc hacks<br>
+currently working on supernova (mc hacked client)<br>
 learning c++<br>
